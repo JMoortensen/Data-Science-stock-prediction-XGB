@@ -1,1 +1,1 @@
-Predicting Amazon stock price using XGBregressor
+This notebook is an example of predicting Amazon closing prices using XGBoost.
